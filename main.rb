@@ -1,4 +1,4 @@
 def hello
   p "hello"
-  p "goodbye"
+  p "astalavista baby"
 end
